@@ -1,3 +1,5 @@
+print("Welcome to the Caesar Cipher program.")
+
 def caesar_cipher(text, shift, action):
     result = ""
     for char in text:
